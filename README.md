@@ -1,2 +1,3 @@
-# Reposittory-demo
+# Repository-demo
 This is my first Git Repository.
+Author - Sai vamshi 
